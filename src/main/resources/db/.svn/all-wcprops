@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/PetClinicSample/src/main/resources/db
+END
+db_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10/trunk/PetClinicSample/src/main/resources/db/db_readme.txt
+END
+petclinic_tomcat_all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10/trunk/PetClinicSample/src/main/resources/db/petclinic_tomcat_all.xml
+END
