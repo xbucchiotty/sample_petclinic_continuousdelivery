@@ -19,12 +19,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>deploymentRepo</id>
+			<id>nexusForDevoxx-releases</id>
 			<name>Internal Release Repo</name>
 			<url>http://192.168.56.101:8081/nexus/content/repositories/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>deploymentSnapshot</id>
+			<id>nexusForDevoxx-snapshots</id>
 			<name>Internal Snapshot Repo</name>
 			<url>http://192.168.56.101:8081/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
